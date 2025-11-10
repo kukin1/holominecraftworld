@@ -1,6 +1,6 @@
-name = "game"
-author = "yes"
-version = "1"
+name = "holopak"
+author = "kukin"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,6 +9,5 @@ hash-format = "sha256"
 hash = "52840aa13aeaa8252b347b04f40b460a33e3954f2a981627c11abb73be76404d"
 
 [versions]
-forge = "52.1.6"
 minecraft = "1.21.1"
 neoforge = "21.1.174"
