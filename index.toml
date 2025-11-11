@@ -477,10 +477,6 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
-file = "mods/GPUTape-1.20.6-1.21x-1.0.3.jar"
-hash = "120f5971e1998337b81205934b55e29c70f4891c6254df616e4391ed94a511cf"
-
-[[files]]
 file = "mods/Measurements-neoforge-1.21.1-3.0.1.jar"
 hash = "602f2cb3f3c6b92f72200dc27f3b0866a04d8063bd06fe13277d0d677f089917"
 
@@ -804,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "e16dfb41b1e085795b99b8367af44e5676997ca4e46487eea90fd810dfbce1a5"
+metafile = true
+
+[[files]]
+file = "mods/project-1152512.pw.toml"
+hash = "1d75396fa90578d6f62e7191e4d8b222bc6f0998629e02bd65484ef56fe97565"
 metafile = true
 
 [[files]]
