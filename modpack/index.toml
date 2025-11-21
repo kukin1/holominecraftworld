@@ -729,6 +729,11 @@ hash = "b772e8a158c45c21844c4acf10f2031335ccc8d05837532ad01034057221bdbd"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
+metafile = true
+
+[[files]]
 file = "mods/hanas-create-recipes.jar"
 hash = "d563025267f3e5c333768932ed30c9e7d6c1453bf5b577b1be955e953ccf27c0"
 
@@ -745,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "332d9a4db6c82a1b505829ede7977640e91513c3fa34231901e2034bae83d2f5"
 metafile = true
 
 [[files]]
@@ -819,6 +829,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "58992066f622dfee52a6ed7ad835e461c88ac64f485ef20b0d8662871abe0c3f"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "58fe862ac2e8f705d8d611e4dfc49a85c4391f60981120949d7a2a772b1e96cc"
 metafile = true
 
 [[files]]
@@ -899,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "e6f77a7e8990c5a7759ad9fb3d524b12ae49b169f544a0a5f19984851122b134"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "1afe3f90b42a2e4dce2428ba30f0dc71d3c9b2fe084cfeb50d2c2d0d4f1ea962"
 metafile = true
 
 [[files]]
