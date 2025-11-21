@@ -674,11 +674,6 @@ hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "f95f8a980bb8ff11b32b47d19d8e5102d03c5fd12fffc795da43a15f0083aafd"
-metafile = true
-
-[[files]]
 file = "mods/electrodynamics.pw.toml"
 hash = "8cbf304366d8e427a6833529a46b5e02d80200047504b44dbb1334f0c2f694ec"
 metafile = true
