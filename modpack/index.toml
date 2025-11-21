@@ -500,6 +500,11 @@ hash = "7c8aab4707f5b816df47c3bcb6f330337fee960ad91844a66a9920ae3585b6b1"
 metafile = true
 
 [[files]]
+file = "mods/ballistix.pw.toml"
+hash = "302714fbac737a57a79a903fdd62d94da4926d2cb3ba790e2dcd913fd5b5b7c2"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
@@ -674,6 +679,11 @@ hash = "f95f8a980bb8ff11b32b47d19d8e5102d03c5fd12fffc795da43a15f0083aafd"
 metafile = true
 
 [[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "8cbf304366d8e427a6833529a46b5e02d80200047504b44dbb1334f0c2f694ec"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
 metafile = true
@@ -721,6 +731,16 @@ metafile = true
 [[files]]
 file = "mods/hanas-create-recipes.jar"
 hash = "d563025267f3e5c333768932ed30c9e7d6c1453bf5b577b1be955e953ccf27c0"
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e01a9920aa95f8bcea40bf8e56eb4fbc43b9f554375fd58d86537d3b7e19c943"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "a17d2ad6bc1592564a6bdda0c17ceb641bfe3d0842d96cd8aa3f4fbc2d1ebafe"
+metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
@@ -782,6 +802,11 @@ hash = "8de8d0ef6c5c087ee7c7c028928edcef86527e84a927cef5defb4a7219bf21c5"
 metafile = true
 
 [[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "8513996073ca682a9d56d5bc64eec1518a728112685f31b9d52d322762ac1f92"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "57d4e6f8ffc6c33a1501e6aedd458094ea9e1db530a27a28bcf5bcfb37efdd82"
 metafile = true
@@ -804,6 +829,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "e16dfb41b1e085795b99b8367af44e5676997ca4e46487eea90fd810dfbce1a5"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+hash = "bdca798ffe4124bf43ea13f1fa5f0593a7539762240edb56c47b1976b413ebc4"
 metafile = true
 
 [[files]]
@@ -874,6 +904,11 @@ metafile = true
 [[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.5.33.jar"
 hash = "1ebfff4eec10cc175d492ba8e699ad4d85c66e9e0e72dbaab30f3f80661879a6"
+
+[[files]]
+file = "mods/voltaic-api.pw.toml"
+hash = "7726368387b1ddb5f76b9c1a45fd7ac695a5db2e80a8f867aacb7306441e8b07"
+metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
